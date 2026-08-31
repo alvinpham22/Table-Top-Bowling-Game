@@ -146,10 +146,6 @@ The experience reinforced that successful engineering designs are rarely achieve
 
 ## CAD Assembly
 
-![CAD Exploded View]
-
-## Manufactured Components
-
 ![CAD Exploded View](images/exploded-view.jpeg)
 
 ## Final Product
