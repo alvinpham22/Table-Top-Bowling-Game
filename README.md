@@ -150,7 +150,7 @@ The experience reinforced that successful engineering designs are rarely achieve
 
 ## Manufactured Components
 
-*(Insert photo of printed parts here)*
+![CAD Exploded View](images/exploded-view.jpeg)
 
 ## Final Product
 
