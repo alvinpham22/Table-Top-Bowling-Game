@@ -14,7 +14,7 @@ The completed design features a spring-powered marble launcher, removable bowlin
 
 # Project Objective
 
-Design a compact tabletop bowling game that demonstrates CAD design, additive manufacturing, mechanical design, and iterative engineering while providing reliable gameplay.
+Design and manufacture a fully functional tabletop bowling game that incorporates multiple mechanical mechanisms while demonstrating CAD modeling, additive manufacturing, and iterative engineering design.
 
 ---
 
