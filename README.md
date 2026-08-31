@@ -158,7 +158,7 @@ The experience reinforced that successful engineering designs are rarely achieve
 
 🎥 Watch the complete project walkthrough:
 
-[(Paste your YouTube link here)](https://www.youtube.com/watch?v=Qr1CuaDyMkA)
+(https://www.youtube.com/watch?v=Qr1CuaDyMkA)
 
 ---
 
