@@ -146,7 +146,7 @@ The experience reinforced that successful engineering designs are rarely achieve
 
 ## CAD Assembly
 
-*(Insert exploded CAD view here)*
+![CAD Exploded View](images/exploded-view.jpeg)
 
 ## Manufactured Components
 
@@ -154,7 +154,7 @@ The experience reinforced that successful engineering designs are rarely achieve
 
 ## Final Product
 
-*(Insert assembled project photo here if available)*
+![Manufactured Components](images/final-version-printed.jpeg)
 
 ---
 
@@ -162,7 +162,7 @@ The experience reinforced that successful engineering designs are rarely achieve
 
 🎥 Watch the complete project walkthrough:
 
-(Paste your YouTube link here)
+[(Paste your YouTube link here)](https://www.youtube.com/watch?v=Qr1CuaDyMkA)
 
 ---
 
