@@ -65,7 +65,7 @@ Software Used
 
 Manufacturing Process
 
-- FDM 3D Printing
+- UltiMaker Cura
 
 ---
 
